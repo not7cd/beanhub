@@ -1,0 +1,4 @@
+import os
+
+SSO_CLIENT_ID = os.getenv('BEANHUB_SSO_CLIENT_ID')
+SSO_CLIENT_SECRET = os.getenv('BEANHUB_SSO_CLIENT_SECRET')
